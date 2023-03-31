@@ -4,4 +4,5 @@ In the exercises, I applied several fundamental programming concepts which helpe
 * Making comparisons
 * Making mathematical calculations
 * Displaying results or messages in the console
+* Creating functions
 
